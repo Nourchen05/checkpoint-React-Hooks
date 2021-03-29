@@ -1,0 +1,9 @@
+.starLabel input {
+  display: none;
+}
+.star {
+  cursor: pointer;
+}
+#stars {
+  text-align: center;
+}

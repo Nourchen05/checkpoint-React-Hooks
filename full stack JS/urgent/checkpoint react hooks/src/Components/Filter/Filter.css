@@ -1,0 +1,27 @@
+.search {
+  width: 100%;
+  background: #f9f9f9;
+  border-bottom: 1px solid #42424233;
+}
+.search-label {
+  position: relative;
+  width: 40%;
+}
+
+.search-label input {
+  width: 97%;
+  padding-left: 15px;
+  border: 1px solid #b3b3b3;
+  border-radius: 5px;
+  margin: 15px 5px;
+  color: #444;
+  height: 35px;
+}
+.fiSearch {
+  position: absolute;
+  right: 0;
+  top: 21px;
+  font-size: 24px;
+  color: #555;
+  right: 18px;
+}

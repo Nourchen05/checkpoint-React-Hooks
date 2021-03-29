@@ -1,0 +1,30 @@
+.cardContainer {
+  display: flex;
+  justify-content: center;
+  padding: 106px;
+  background-color: #ecf0f0;
+}
+.trailerMovie {
+  width: 80%;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  transition: 0.3s;
+}
+.CardHeader {
+  display: flex;
+  justify-content: space-between;
+}
+.backIcon {
+  width: 29px;
+  height: 29px;
+  color: black;
+}
+.CardBody {
+  display: flex;
+}
+.CardText {
+  width: 40%;
+  text-align: justify;
+  padding: 20px;
+  line-height: 30px;
+}

@@ -1,0 +1,28 @@
+.container-fluid {
+  background-color: #ecf0f0;
+  padding: 0;
+  min-height: 625px;
+}
+h4 {
+  margin-top: 10px;
+  font-weight: 300;
+  text-align: justify;
+}
+.subContainer {
+  display: flex;
+}
+.rateSearch {
+  border: 1px solid #42424233;
+  background: #fff;
+  border-radius: 5px;
+  height: 50px;
+  margin: 10px;
+  padding: 5px;
+  width: 150px;
+}
+.movieList {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100%;
+}
